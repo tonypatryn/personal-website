@@ -1,5 +1,25 @@
 h1 {
-	color: red;
+	color: #ab08ab;
 	font-size: 100px;
 	font-family: 'Oswald', sans-serif;
+}
+
+h2 {
+	font-family: 'Roboto Slab', sans-serif;
+	font-size: 20px;
+}
+
+h3 {
+	font-family: 'Roboto Slab', sans-serif;
+	font-size: 16px;
+	color: #456abc;
+}
+
+p {
+	font-family: 'Raleway', sans-serif;
+	font-size: 14px;
+}
+
+.center {
+	text-align: center;
 }
